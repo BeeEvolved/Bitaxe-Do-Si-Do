@@ -23,4 +23,5 @@ Like a coordinated spin on the dance floor, the Do-Si-Do lets your Bitaxe spin i
 
 ---
 
-Grab your #bitaxe and let’s Do-Si-Do! 🤠🌀
+Demo video of it working here: 
+https://x.com/BeeEvolved/status/1934263316643496063
